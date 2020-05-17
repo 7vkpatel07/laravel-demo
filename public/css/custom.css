@@ -1,0 +1,71 @@
+.skin-red .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-red .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+.skin-green .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-green .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+.skin-purple .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-purple .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+.skin-megna .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-megna .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+.skin-blue .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-blue .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+.skin-default .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255,255,255,.8);
+}
+.skin-default .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+}
+
+.topbar .top-navbar .navbar-header {
+    background: rgba(0,0,0,.05);
+}
+
+/* language picker */
+.language-picker { padding:.5rem 1rem; font-size: 14px; line-height: 50px; }
+.language-picker select{border-radius: 60px; border-color: transparent; transition: .2s ease-in; padding: 6px 12px;}
+.preloader .d-block{display: block !important;}
+.preloader .d-none{display: none !important;}
+#ajaxLoader {opacity: 0.3;}
+
+.invalid-feedback {color: red;font-weight: bold;font-size: 85%;}
+
+#otpForm{
+   display:none; 
+}
+.d-none{
+    display: none;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+    background-color:#03a9f3;
+    border-color:#03a9f3;
+    color:#FFFFFF;
+}
+.select2-selection__choice__remove{
+    color: #FFFFFF !important;
+}
